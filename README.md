@@ -159,39 +159,19 @@ Users can export invoice data in:
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
----
+![Dashboard](screenshots/Dashboard.png)
 
 ### Upload Invoice
 
-> Add image:
-
-```text
-![Dashboard](screenshots/Dashboard.png)
-```
-
----
+![Upload Invoice](screenshots/Invoice_upload.png)
 
 ### Reports
 
-> Add image:
-
-```text
-screenshots/reports.png
-```
-
----
+![Reports](screenshots/Reports.png)
 
 ### Export
 
-> Add image:
-
-```text
-screenshots/export.png
-```
-
----
+![Export](screenshots/Export.png)
 
 ## Validation
 
