@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  invoice-management-system:
+    build: .
+
+    container_name: invoice-management-system
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped
