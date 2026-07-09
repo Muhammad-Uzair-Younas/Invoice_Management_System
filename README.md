@@ -69,7 +69,7 @@ Invoice-Management-System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/Invoice-Management-System.git
+git clone https://github.com/Muhammad-Uzair-Younas/Invoice_Management_System.git
 cd Invoice-Management-System
 ```
 
