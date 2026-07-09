@@ -159,11 +159,7 @@ Users can export invoice data in:
 
 ### Dashboard
 
-> Add image:
-
-```text
-screenshots/dashboard.png
-```
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
